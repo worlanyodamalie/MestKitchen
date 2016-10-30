@@ -1,0 +1,55 @@
+.mybody {
+			background-color: #f5d039
+		}
+
+
+.myheader{
+          background-color: #f5d039;
+          /*padding-top: 150px;*/
+}		
+
+#choosemeal{
+	padding-left: 300px;
+}
+section .mycontainer {
+	padding-top: 50px;
+	padding-left: 350px;
+	padding-right: 100px;
+	padding-bottom: 100px;
+
+}
+
+.btn-success {
+	width: 200px;
+}
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+
+}
+
+.card:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+	padding:2px 16px;
+}
+
+.glyphiconColor{
+	color: #f5d039;
+}
+
+section .cardContainer {
+	padding-top: 100px;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-bottom: 100px;
+
+}
+
+
+
+/*Admin Template*/
+

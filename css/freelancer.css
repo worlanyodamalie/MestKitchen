@@ -1,0 +1,52 @@
+body {
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+p {
+	font-size: 20px;
+}
+
+header {
+	text-align: center;
+	background: #e74c3c ;
+	color: white;
+}
+
+header .container {
+  	padding-top: 100px;
+  	padding-bottom: 50px;
+  }
+
+header img {
+	display: block;
+	margin: 0 auto 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+hr.star-light,
+hr.star-primary {
+	padding: 0;
+	border: none;
+	border-top: solid 5px;
+	text-align: center;
+	max-width: 250px;
+	margin ]: 25px auto 30px;
+}
+.navbar-custom {
+	background: #c0392b; 
+	font-family: "Montserrat" , "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	border :none;
+}
